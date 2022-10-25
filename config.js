@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281251549899']
-global.ownernomer = "6281251549899"
-global.premium = ['6281251549899']
-global.packname = 'DaniBotz'
-global.author = 'By DaniXd'
+global.owner = ['62895622436731']
+global.ownernomer = "62895622436731"
+global.premium = ['62895622436731']
+global.packname = 'BotzIkyy'
+global.author = 'By IkyyOfc'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -62,13 +62,13 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./media/image/DaniXd.jpg')
 global.faall = fs.readFileSync('./media/image/Fake.jpg')
-global.mygit = 'https://github.com/YTDANIBOTZ'
-global.myyt = 'https://youtube.com/channel/UCuo4SSYAIVE73sQvgsQd5gQ'
-global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
-global.mygc = "https://chat.whatsapp.com/E4mPMyGkTmpCdlJiVDoLp8"
-global.botname = 'DaniBotz-MD'
-global.akulaku = 'Bot By DaniXd'
-global.ytname = 'YT DaniXd'
+global.mygit = 'https://github.com/ikyybaik'
+global.myyt = 'Kosong'
+global.myytv = 'Kosong'
+global.mygc = "Bubar"
+global.botname = 'BotzIkyy'
+global.akulaku = 'Bot By IkyyOfc'
+global.ytname = 'Kosong'
 
 
 let file = require.resolve(__filename)
